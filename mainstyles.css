@@ -1,0 +1,28 @@
+body
+{
+  background-color:grey;
+  color:black;
+  font-family: arial;
+  margin: 0;
+}
+
+header
+{
+  padding:.25em;
+  margin:0;
+}
+
+h1
+{
+  margin: .5em;
+  padding-top: .5em;
+  margin: 0;
+}
+
+nav
+{
+  background-color: #999;
+  padding:.5em;
+  
+  color:white;
+}
